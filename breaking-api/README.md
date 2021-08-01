@@ -1,3 +1,17 @@
+# Breaking Bad API Using React
+
+This application allows the user to obtain random quotes or phrases said by each of the characters in the series.
+
+### Used Tools
+
+- React :cyclone:
+- Breaking Bad API Documentation :smiling_imp:
+- Loading IO CSS :o:
+
+
+
+![](BR.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
